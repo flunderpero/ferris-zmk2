@@ -75,11 +75,11 @@
         arrow_and_signs {
         bindings = <
 
-        &kp ESC    &kp PRCNT  &kp HASH   &kp LT     &kp GT       &none   &none         &kp PG_DN  &kp PG_UP  &kp DEL
-        &kp SLASH  &kp EXCL   &kp ASTRK  &kp CARET  &kp DLLR     &none   &kp LARW      &kp DARW   &kp UARW   &kp RARW  
-        &kp BSLH   &kp QMARK  &kp TILDE  &kp GRAVE  &none        &none   &kp LA(LARW)  &none      &none      &kp LA(RARW)    
+        &kp ESC    &kp PRCNT  &kp HASH   &kp LT     &kp GT       &kp HOME  &none         &kp PG_DN  &kp PG_UP  &kp DEL
+        &kp SLASH  &kp EXCL   &kp ASTRK  &kp CARET  &kp DLLR     &none     &kp LARW      &kp DARW   &kp UARW   &kp RARW  
+        &kp BSLH   &kp QMARK  &kp TILDE  &kp GRAVE  &none        &kp END   &kp LA(LARW)  &none      &none      &kp LA(RARW)    
 
-                                               &sl NUM  &none    &none   &sl FKEYS
+                                               &sl NUM  &none    &none     &sl FKEYS
         >;
         };
 

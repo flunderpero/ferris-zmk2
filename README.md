@@ -22,9 +22,9 @@ This is my layout for a regular Ferris Sweep using the cradio shield.
 
 ### Arrow layer:
 
-    ESC     %       #       <       >                           PG_DN   PG_UP   DEL 
+    ESC     %       #       <       >           HOME            PG_DN   PG_UP   DEL 
     !       /       *       ^       $                   LEFT    DOWN    UP      RIGHT
-            \       ~       `       ?                   A+LEFT                  A+RIGHT 
+            \       ~       `       ?           END     A+LEFT                  A+RIGHT 
 
             NUM_LAYER                                           F_KEY_LAYER
 
