@@ -18,7 +18,7 @@
 };
 
 &sl {
-    release-after-ms = <500>;
+    release-after-ms = <200>;
 };
 
 / {
