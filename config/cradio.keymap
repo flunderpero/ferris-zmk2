@@ -60,7 +60,6 @@
         >;
         };
 
-        // TODO: `&caps_word` has some kind of delay before it triggers.
         num_and_signs {
         bindings = <
 
