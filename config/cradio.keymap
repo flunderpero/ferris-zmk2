@@ -55,7 +55,7 @@
         &lm LALT A    &lm LGUI O  &lm LSHIFT E  &lm LCTRL U  &kp I      &kp D  &rm RCTRL H  &rm RSHIFT T  &rm RGUI N  &rm RALT S 
         &kp COLON     &kp Q       &kp J         &kp K        &kp X      &kp B  &kp M        &kp W         &kp V       &kp Z
 
-                                 &sl ARROW  &mt LC(LS(LALT)) SPACE      &sl ARROW  &sl NUM
+                                 &sl ARROW  &mt LC(LALT)     SPACE      &sl ARROW  &sl NUM
 
         >;
         };
